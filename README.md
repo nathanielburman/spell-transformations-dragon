@@ -12,18 +12,18 @@
 
 Flying comes from the chest
 
-my wings
+##my wings
 2 dragons wings long and flowing
 2 dimensional boundless wings
 ... many more wings
 
-my horns
+##my horns
 infinite dragons horns
 
-my claws
-6 or mire dragons claws
+##my claws
+6 or mire dragons claws **more
 
-my jaws
+##my jaws
 1 set of dragons jaws
 
 my human dragon form
