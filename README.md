@@ -1,5 +1,7 @@
 # spell-transformations-dragon
 
+"If god or goddess gave me wings, I could figure out how to fly." Nb
+
 1. i am a dragon
 2. i have a sheild
 3. i can fly
